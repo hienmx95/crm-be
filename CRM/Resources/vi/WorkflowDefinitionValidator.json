@@ -1,0 +1,42 @@
+{
+  "WorkflowDefinition": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "CreatorId": {
+    },
+    "ModifierId": {
+    },
+    "WorkflowTypeId": {
+    },
+    "StartDate": {
+    },
+    "EndDate": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Creator": {
+    },
+    "Modifier": {
+    },
+    "Status": {
+    },
+    "WorkflowType": {
+    },
+    "WorkflowDirections": {
+    },
+    "WorkflowParameters": {
+    },
+    "WorkflowSteps": {
+    },
+  }
+}

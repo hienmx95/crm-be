@@ -1,0 +1,57 @@
+﻿{
+  "CustomerFeedback": {
+    "Id": {
+    },
+    "FullName": {
+      "FullNameEmpty": "Tên khách hàng không được để trống",
+      "FullNameOverLength" :  "Độ dài tên không được quá 500 ký tự"
+    },
+    "Email": {
+      "EmailEmpty": "Email không được để trống",
+      "EmailOverLength": "Độ dài tên không được quá 500 ký tự"
+    },
+    "PhoneNumber": {
+      "PhoneNumberEmpty": "Số điện thoại không được để trống",
+      "PhoneNumberOverLength": "Độ dài tên không được quá 50 ký tự"
+    },
+    "IsSystemCustomer": {
+    },
+    "TypeId": {
+    },
+    "CustomerId": {
+    },
+    "StatusId": {
+    },
+    "Title": {
+      "TitleEmpty" :  "Tiêu đề không được để trống"
+    },
+    "Content": {
+    },
+    "ProcessorId": {
+    },
+    "ProcessDate": {
+    },
+    "RejectReason": {
+    },
+    "RejectNote": {
+    },
+    "ProcessResult": {
+    },
+    "ResultEvaluation": {
+    },
+    "SendDate": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "Customer": {
+    },
+    "Status": {
+    },
+    "Type": {
+    },
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "CustomerExportLeadership": {
+    "Id": {
+    },
+    "CustomerExportId": {
+    },
+    "Name": {
+    },
+    "DateOfBirth": {
+    },
+    "Phone": {
+    },
+    "PositionId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CustomerExport": {
+    },
+    "Position": {
+    },
+  }
+}

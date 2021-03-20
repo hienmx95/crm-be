@@ -1,0 +1,26 @@
+﻿{
+  "TicketGroup": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 255 ký tự"
+    },
+    "TicketType": {
+      "TicketTypeEmpty":  "Loại ticket không được để trống"
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Used": {
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

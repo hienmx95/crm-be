@@ -1,0 +1,30 @@
+{
+  "District": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "Priority": {
+    },
+    "ProvinceId": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Province": {
+    },
+    "Status": {
+    },
+    "Customers": {
+    },
+    "Wards": {
+    },
+  }
+}

@@ -1,0 +1,27 @@
+﻿{
+  "Company": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 500 ký tự"
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "AppUserId": {
+      "AppUserNotExisted": "Người phụ trách không tồn tại",
+      "AppUserEmpty": "Phải chọn người phụ trách"
+    },
+    "Address": {
+      "AddressIsOverLenth": "Địa chỉ quá dài"
+    },
+    "Phone": {
+      "PhoneOverLength": "Số điện thoại quá dài",
+      "PhoneExisted": "Số điện thoại đã được sử dụng"
+    }
+  }
+}

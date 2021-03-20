@@ -1,0 +1,38 @@
+﻿{
+  "TicketIssueLevel": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 255 ký tự"
+    },
+    "SLA": {
+      "SLAEmpty": "SLA không được để trống"
+    },
+    "TicketGroup": {
+      "TicketGroupEmpty": "Nhóm ticket không được để trống"
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Used": {
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "SLAPolicy": {
+      "FirstResponseTime": {
+        "FirstResponseTimeEmpty": "Thời gian phản hồi không được để trống"
+      },
+      "ResolveTime": {
+        "ResolveTimeEmpty": "Thời gian xử lý không được để trống",
+        "ResolveTimeWrong": "Thời gian xử lý phải lớn hơn thời gian phản hồi"
+      }
+    }
+  }
+}

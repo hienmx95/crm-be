@@ -1,0 +1,24 @@
+{
+  "TicketType": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "ColorCode": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Used": {
+    },
+    "Status": {
+    },
+  }
+}

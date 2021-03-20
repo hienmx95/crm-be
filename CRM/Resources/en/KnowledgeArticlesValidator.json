@@ -1,0 +1,28 @@
+{
+  "KnowledgeArticles": {
+    "Id": {
+    },
+    "Title": {
+    },
+    "Detail": {
+    },
+    "IsPublished": {
+    },
+    "GroupId": {
+    },
+    "CreatorId": {
+    },
+    "DisplayOrder": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Creator": {
+    },
+    "Group": {
+    },
+  }
+}

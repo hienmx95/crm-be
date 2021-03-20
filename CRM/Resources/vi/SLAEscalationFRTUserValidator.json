@@ -1,0 +1,20 @@
+{
+  "SLAEscalationFRTUser": {
+    "Id": {
+    },
+    "SLAEscalationFRTId": {
+    },
+    "AppUserId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "AppUser": {
+    },
+    "SLAEscalationFRT": {
+    },
+  }
+}

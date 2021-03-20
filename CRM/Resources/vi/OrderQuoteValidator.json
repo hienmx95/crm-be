@@ -1,0 +1,44 @@
+﻿{
+  "OrderQuote": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ContentEmpty": "Chưa thêm sản phẩm"
+    },
+    "Subject": {
+      "SubjectEmpty": "Tiêu đề không được để trống",
+      "SubjectOverLength": "Độ dài tiêu đề không được quá 255 ký tự"
+    },
+    "Company": {
+      "CompanyEmpty": "Công ty hoặc liên hệ không được để trống"
+    },
+    "Contact": {
+      "ContactEmpty": "Công ty hoặc liên hệ không được để trống"
+    },
+    "User": {
+      "UserEmpty": "Người phụ trách không được để trống"
+    },
+    "OrderQuoteStatus": {
+      "OrderQuoteStatusEmpty": "Tình trạng không được để trống"
+    },
+    "Quotestage": {
+      "QuotestageEmpty": "Chưa nhập ngày kết thúc",
+      "QuotestageWrong": "Ngày kết thúc không hợp lệ"
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "OrderQuoteContent": {
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng",
+        "QuantityInvalid": "Số lượng không hợp lệ"
+      },
+      "UnitOfMeasure": {
+        "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+        "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính"
+      }
+    }
+  }
+}

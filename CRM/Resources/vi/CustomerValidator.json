@@ -1,0 +1,149 @@
+﻿{
+  "Customer": {
+    "Id": {
+    },
+    "IdentificationNumber": {
+      "IdentificationNumberEmpty": "Số CMT/CMND không được để trống",
+      "IdentificationNumberOverLength": "Số CMT/CMND vượt quá ký tự cho phép",
+      "IdentificationNumberExisted": "Số CMT/CMND đã tồn tại"
+    },
+    "Code": {
+    },
+    "TypeId": {
+    },
+    "GroupId": {
+    },
+    "LevelId": {
+    },
+    "ResourceId": {
+    },
+    "CareerId": {
+    },
+    "StatusId": {
+    },
+    "ProvinceId": {
+    },
+    "DistrictId": {
+    },
+    "WardId": {
+    },
+    "ImageId": {
+    },
+    "XPoint": {
+    },
+    "YPoint": {
+    },
+    "TaxCode": {
+    },
+    "CardCode": {
+    },
+    "Phone": {
+      "PhoneNumberEmpty": "Số điện thoại không được để trống",
+      "PhoneNumberOverLength": "Độ dài không được quá 50 ký tự",
+      "PhoneNumberExisted": "Số điện thoại đã tồn tại"
+    },
+    "SecondPhone": {
+    },
+    "SexId": {
+    },
+    "Address": {
+      "AddressEmpty": "Địa chỉ không được trống"
+    },
+    "DateOfBirth": {
+    },
+    "UserName": {
+    },
+    "Password": {
+    },
+    "FirstName": {
+    },
+    "LastName": {
+    },
+    "FullName": {
+      "FullNameEmpty": "Tên đầy đủ không được để trống"
+    },
+    "SpendingLimit": {
+    },
+    "Email": {
+      "EmailEmpty": "Email không được để trống",
+      "EmailOverLength": "Độ dài email không được quá 200 ký tự",
+      "EmailExisted": "Email đã tồn tại"
+    },
+    "Company": {
+    },
+    "AwardPoint": {
+    },
+    "SubAwardPoint": {
+    },
+    "IsReceiveSMS": {
+    },
+    "IsReceiveEmail": {
+    },
+    "CompanyPrivate": {
+    },
+    "Description": {
+    },
+    "Height": {
+    },
+    "Weight": {
+    },
+    "CardIssuanceDate": {
+    },
+    "ProductViewed": {
+    },
+    "IsLogged": {
+    },
+    "CreditNumber": {
+    },
+    "CreditNumberUsed": {
+    },
+    "CreditGroupNumber": {
+    },
+    "CreditGroupNumberUsed": {
+    },
+    "ContactUser": {
+    },
+    "ScheduleMasterId": {
+    },
+    "DeliveryAddress": {
+    },
+    "XPointDelivery": {
+    },
+    "YPointDelivery": {
+    },
+    "Position": {
+    },
+    "DisplayOrder": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "Career": {
+    },
+    "District": {
+    },
+    "Group": {
+    },
+    "Image": {
+    },
+    "Level": {
+    },
+    "Province": {
+    },
+    "Resource": {
+    },
+    "ScheduleMaster": {
+    },
+    "Sex": {
+    },
+    "Status": {
+    },
+    "Type": {
+    },
+    "Ward": {
+    }
+  }
+}

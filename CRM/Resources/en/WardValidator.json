@@ -1,0 +1,28 @@
+{
+  "Ward": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "Priority": {
+    },
+    "DistrictId": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "District": {
+    },
+    "Status": {
+    },
+    "Customers": {
+    },
+  }
+}

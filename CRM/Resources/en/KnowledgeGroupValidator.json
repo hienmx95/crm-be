@@ -1,0 +1,24 @@
+{
+  "KnowledgeGroup": {
+    "Id": {
+    },
+    "Name": {
+    },
+    "Code": {
+    },
+    "StatusId": {
+    },
+    "DisplayOrder": {
+    },
+    "Description": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "KnowledgeArticles": {
+    },
+  }
+}

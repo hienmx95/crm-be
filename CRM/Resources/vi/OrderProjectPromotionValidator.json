@@ -1,0 +1,30 @@
+{
+  "OrderProjectPromotion": {
+    "Id": {
+    },
+    "ItemId": {
+    },
+    "OrderProjectId": {
+    },
+    "UnitOfMeasureId": {
+    },
+    "Quantity": {
+    },
+    "PrimaryUnitOfMeasureId": {
+    },
+    "RequestedQuantity": {
+    },
+    "Note": {
+    },
+    "Factor": {
+    },
+    "Item": {
+    },
+    "OrderProject": {
+    },
+    "PrimaryUnitOfMeasure": {
+    },
+    "UnitOfMeasure": {
+    },
+  }
+}

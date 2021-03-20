@@ -1,0 +1,118 @@
+﻿{
+  "Contract": {
+    "Id": {
+    },
+    "Code": {
+      "CodeEmpty": "Số hợp đồng là trường bắt buộc"
+    },
+    "Name": {
+    },
+    "TotalValue": {
+      "TotalValueEmpty": "Giá trị hợp đồng là trường bắt buộc"
+    },
+    "ValidityDate": {
+      "ValidityDateError": "Ngày hiệu lực là trường bắt buộc"
+    },
+    "ExpirationDate": {
+      "ExpirationDateRangeError": "Ngày hết hiệu lực phải lớn hơn ngày bắt đầu hiệu lực",
+      "ExpirationDateError" :  "Ngày hết hạn là trường bắt buộc"
+    },
+    "DeliveryUnit": {
+    },
+    "InvoiceAddress": {
+      "InvoiceAddressError": "Địa chỉ xuất hóa đơn là trường bắt buộc"
+    },
+    "InvoiceZipCode": {
+    },
+    "ReceiveAddress": {
+      "ReceiveAddressError": "Địa chỉ nhận hàng là trường bắt buộc"
+    },
+    "ReceiveZipCode": {
+    },
+    "TermAndCondition": {
+    },
+    "InvoiceNationId": {
+    },
+    "InvoiceProvinceId": {
+    },
+    "InvoiceDistrictId": {
+    },
+    "ReceiveNationId": {
+    },
+    "ReceiveProvinceId": {
+    },
+    "ReceiveDistrictId": {
+    },
+    "ContractTypeId": {
+      "TypeEmpty" :  "Loại hợp đồng là trường bắt buộc"
+    },
+    "CompanyId": {
+    },
+    "OpportunityId": {
+    },
+    "OrganizationId": {
+    },
+    "AppUserId": {
+      "AppUserError": "Người phụ trách là trường bắt buộc phải nhập"
+    },
+    "ContractStatusId": {
+    },
+    "CreatorId": {
+    },
+    "CustomerId": {
+      "CustomerError": "Khách hàng là trường bắt buộc nhập",
+    },
+    "CurrencyId": {
+      "CurrencyEmpty" :  "Đơn vị tiền tệ là trường bắt buộc"
+    },
+    "PaymentStatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Company": {
+    },
+    "AppUser": {
+    },
+    "ContractStatus": {
+    },
+    "ContractType": {
+      "TypeEmpty": "Loại hợp đồng là trường bắt buộc"
+    },
+    "Creator": {
+    },
+    "Currency": {
+    },
+    "Customer": {
+    },
+    "InvoiceDistrict": {
+    },
+    "InvoiceNation": {
+    },
+    "InvoiceProvince": {
+    },
+    "Opportunity": {
+    },
+    "Organization": {
+    },
+    "PaymentStatus": {
+    },
+    "ReceiveDistrict": {
+    },
+    "ReceiveNation": {
+    },
+    "ReceiveProvince": {
+    },
+    "ContractContactMappings": {
+    },
+    "ContractFileGroupMappings": {
+    },
+    "ContractPaymentHistories": {
+    },
+    "ContractProductDetails": {
+    },
+  }
+}

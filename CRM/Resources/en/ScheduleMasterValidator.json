@@ -1,0 +1,44 @@
+{
+  "ScheduleMaster": {
+    "Id": {
+    },
+    "ManagerId": {
+    },
+    "SalerId": {
+    },
+    "Name": {
+    },
+    "Code": {
+    },
+    "StatusId": {
+    },
+    "RecurDays": {
+    },
+    "StartDate": {
+    },
+    "EndDate": {
+    },
+    "NoEndDate": {
+    },
+    "StartDayOfWeek": {
+    },
+    "DisplayOrder": {
+    },
+    "Description": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "Manager": {
+    },
+    "Saler": {
+    },
+    "Status": {
+    },
+    "Customers": {
+    },
+  }
+}

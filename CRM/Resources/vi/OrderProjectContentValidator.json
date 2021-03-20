@@ -1,0 +1,52 @@
+{
+  "OrderProjectContent": {
+    "Id": {
+    },
+    "OrderProjectId": {
+    },
+    "ItemId": {
+    },
+    "UnitOfMeasureId": {
+    },
+    "Quantity": {
+    },
+    "PrimaryUnitOfMeasureId": {
+    },
+    "RequestedQuantity": {
+    },
+    "PrimaryPrice": {
+    },
+    "SalePrice": {
+    },
+    "EditedPriceStatusId": {
+    },
+    "DiscountPercentage": {
+    },
+    "DiscountAmount": {
+    },
+    "GeneralDiscountPercentage": {
+    },
+    "GeneralDiscountAmount": {
+    },
+    "TaxPercentage": {
+    },
+    "TaxAmount": {
+    },
+    "TaxPercentageOther": {
+    },
+    "TaxAmountOther": {
+    },
+    "Amount": {
+    },
+    "Factor": {
+    },
+    "Item": {
+    },
+    "OrderProject": {
+    },
+    "PrimaryUnitOfMeasure": {
+    },
+    "UnitOfMeasure": {
+    },
+  }
+}

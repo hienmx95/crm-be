@@ -1,0 +1,36 @@
+﻿{
+  "StoreExtend": {
+    "StoreId": {
+    },
+    "ATM": {
+      "ATMEmpty": "Số tài khoản không được để trống"
+    },
+    "AbilityToPay": {
+      "AbilityToPayEmpty": "Khả năng thanh toán không được để trống"
+    },
+    "AgentContractNumber": {
+      "AgentContractNumberEmpty": "Số hợp đồng không được để trống"
+    },
+    "AnotherStrongPoint": {
+      "AnotherStrongPointEmpty": "Điểm mạnh khác không được để trống"
+    },
+    "BankName": {
+      "BankNameEmpty": "Tên ngân hàng không được để trống"
+    },
+    "BusinessCapital": {
+      "BusinessCapitalEmpty": "Vốn kinh doanh không được để trống"
+    },
+    "BusinessLicense": {
+      "BusinessLicenseEmpty": "Giấy phép kinh doanh không được để trống"
+    },
+    "CompanyName": {
+      "CompanyNameEmpty": "Tên công ty không được để trống"
+    },
+    "DistributionArea": {
+      "DistributionAreaEmpty": "Khu vực phân phối không được để trống"
+    },
+    "MarketCharacteristics": {
+      "MarketCharacteristicsEmpty": "Đặc điểm thị trường không được để trống"
+    }
+  }
+}

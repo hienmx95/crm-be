@@ -1,0 +1,64 @@
+{
+  "AppUser": {
+    "Id": {
+    },
+    "Username": {
+    },
+    "DisplayName": {
+    },
+    "Address": {
+    },
+    "Email": {
+    },
+    "Phone": {
+    },
+    "SexId": {
+    },
+    "Birthday": {
+    },
+    "Avatar": {
+    },
+    "PositionId": {
+    },
+    "Department": {
+    },
+    "OrganizationId": {
+    },
+    "ProvinceId": {
+    },
+    "Longitude": {
+    },
+    "Latitude": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Organization": {
+    },
+    "Position": {
+    },
+    "Province": {
+    },
+    "Sex": {
+    },
+    "Status": {
+    },
+    "AppUserRoleMappings": {
+    },
+    "KnowledgeArticles": {
+    },
+    "ScheduleMasterManagers": {
+    },
+    "ScheduleMasterSalers": {
+    },
+    "WorkflowDefinitionCreators": {
+    },
+    "WorkflowDefinitionModifiers": {
+    },
+  }
+}

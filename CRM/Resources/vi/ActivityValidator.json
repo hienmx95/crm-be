@@ -1,0 +1,38 @@
+﻿{
+  "Activity": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 255 ký tự"
+    },
+    "Mapping": {
+      "MappingEmpty": "Đối tượng liên quan không được để trống"
+    },
+    "User": {
+      "UserEmpty": "Người phụ trách không được để trống"
+    },
+    "ActivityStatus": {
+      "ActivityStatusEmpty": "Tình trạng hoạt động không được để trống"
+    },
+    "ActivityType": {
+      "ActivityTypeEmpty": "Loại hoạt động không được để trống"
+    },
+    "ActivityPriority": {
+      "ActivityPriorityEmpty": "Độ ưu tiên không được để trống"
+    },
+    "FromDate": {
+      "FromDateEmpty": "Chưa nhập Thời gian bắt đầu"
+    },
+    "ToDate": {
+      "ToDateEmpty": "Chưa nhập thời gian kết thúc",
+      "ToDateWrong": "Thời gian kết thúc không hợp lệ"
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    }
+  }
+}

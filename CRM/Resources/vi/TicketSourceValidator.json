@@ -1,0 +1,25 @@
+﻿{
+  "TicketSource": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 255 ký tự"
+    },
+    "OrderNumber": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Used": {
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

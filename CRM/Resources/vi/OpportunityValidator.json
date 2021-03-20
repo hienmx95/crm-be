@@ -1,0 +1,38 @@
+﻿{
+  "Opportunity": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 500 ký tự"
+    },
+    "SaleStage": {
+      "SaleStageEmpty": "Bước bán hàng không được để trống"
+    },
+    "AppUser": {
+      "AppUserEmpty": "Người phụ trách không được để trống"
+    },
+    "Probability": {
+      "ProbabilityEmpty": "Tỷ lệ thành công không được để trống"
+    },
+    "ClosingDate": {
+      "ClosingDateEmpty": "Ngày chốt dự kiến không được để trống",
+      "ClosingDateWrong": "Ngày chốt dự kiến không hợp lệ"
+    },
+    "OpportunityResultDescription": {
+      "OpportunityResultDescriptionEmpty": "Lý do thua không được để trống"
+    },
+    "OpportunityResultType": {
+      "OpportunityResultTypeEmpty": "Yêu cầu chọn lý do thất bại"
+    },
+    "PotentialResult": {
+      "PotentialResultEmpty": "Bạn vui lòng chọn kết quả của cơ hội này"
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    }
+  }
+}

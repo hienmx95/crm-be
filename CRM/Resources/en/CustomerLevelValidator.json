@@ -1,0 +1,30 @@
+{
+  "CustomerLevel": {
+    "Id": {
+    },
+    "Name": {
+    },
+    "Code": {
+    },
+    "Color": {
+    },
+    "StatusId": {
+    },
+    "Description": {
+    },
+    "PointFrom": {
+    },
+    "PointTo": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Status": {
+    },
+    "Customers": {
+    },
+  }
+}

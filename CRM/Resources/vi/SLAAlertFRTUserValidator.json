@@ -1,0 +1,20 @@
+{
+  "SLAAlertFRTUser": {
+    "Id": {
+    },
+    "SLAAlertFRTId": {
+    },
+    "AppUserId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "AppUser": {
+    },
+    "SLAAlertFRT": {
+    },
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Profession": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "RowId": {
+    },
+    "Used": {
+    },
+    "Status": {
+    },
+  }
+}

@@ -1,0 +1,190 @@
+﻿{
+  "Store": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "CodeDraft": {
+    },
+    "Name": {
+    },
+    "UnsignName": {
+    },
+    "ParentStoreId": {
+    },
+    "OrganizationId": {
+    },
+    "StoreTypeId": {
+    },
+    "StoreGroupingId": {
+    },
+    "ResellerId": {
+    },
+    "Telephone": {
+    },
+    "ProvinceId": {
+    },
+    "DistrictId": {
+    },
+    "WardId": {
+    },
+    "Address": {
+    },
+    "UnsignAddress": {
+    },
+    "DeliveryAddress": {
+    },
+    "Latitude": {
+    },
+    "Longitude": {
+    },
+    "DeliveryLatitude": {
+    },
+    "DeliveryLongitude": {
+    },
+    "OwnerName": {
+    },
+    "OwnerPhone": {
+    },
+    "OwnerEmail": {
+    },
+    "TaxCode": {
+    },
+    "LegalEntity": {
+    },
+    "AppUserId": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "RowId": {
+    },
+    "Used": {
+    },
+    "StoreScoutingId": {
+    },
+    "StoreStatusId": {
+    },
+    "CustomerAgentId": {
+    },
+    "AppUser": {
+    },
+    "CustomerAgent": {
+    },
+    "District": {
+    },
+    "Organization": {
+    },
+    "ParentStore": {
+    },
+    "Province": {
+    },
+    "Status": {
+    },
+    "StoreGrouping": {
+    },
+    "StoreStatus": {
+    },
+    "StoreType": {
+    },
+    "Ward": {
+    },
+    "StoreExtend": {
+    },
+    "BusinessConcentrationLevels": {
+    },
+    "DirectSalesOrders": {
+    },
+    "ImproveQualityServings": {
+      "ImproveQualityServingCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "InverseParentStore": {
+    },
+    "StoreAssetses": {
+      "StoreAssetsCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreConsultingServiceMappings": {
+      "StoreConsultingServiceCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreCooperativeAttitudeMappings": {
+      "CooperativeAttitudeCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreCoverageCapacities": {
+      "CoverageCapacityCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreDeliveryTimeMappings": {
+      "DeliveryTimeCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreImageMappings": {
+    },
+    "StoreInfulenceLevelMarketMappings": {
+      "InfulenceLevelMarketCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreMarketPriceMappings": {
+      "MarketPriceCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreMeansOfDeliveries": {
+      "StoreMeansOfDeliveryCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StorePersonnels": {
+      "PersonnelCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreRelationshipCustomerMappings": {
+      "RelationshipCustomerTypeCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreRepresents": {
+      "RepresentCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreWarrantyServices": {
+      "WarrantyServiceCannotBeNull": "Vui lòng điền đầy đủ thông tin"
+    },
+    "StoreExtend": {
+      "StoreId": {
+      },
+      "ATM": {
+        "ATMEmpty": "Số tài khoản không được để trống"
+      },
+      "AbilityToPay": {
+        "AbilityToPayEmpty": "Khả năng thanh toán không được để trống"
+      },
+      "AgentContractNumber": {
+        "AgentContractNumberEmpty": "Số hợp đồng không được để trống"
+      },
+      "AnotherStrongPoint": {
+        "AnotherStrongPointEmpty": "Điểm mạnh khác không được để trống"
+      },
+      "BankName": {
+        "BankNameEmpty": "Tên ngân hàng không được để trống"
+      },
+      "BusinessCapital": {
+        "BusinessCapitalEmpty": "Vốn kinh doanh không được để trống"
+      },
+      "BusinessLicense": {
+        "BusinessLicenseEmpty": "Giấy phép kinh doanh không được để trống"
+      },
+      "BusinessType": {
+        "BusinessTypeEmpty" :  "Vui lòng chọn loại hình doanh nghiệp"
+      },
+        "CompanyName": {
+          "CompanyNameEmpty": "Tên công ty không được để trống"
+        },
+        "DistributionArea": {
+          "DistributionAreaEmpty": "Khu vực phân phối không được để trống"
+        },
+        "MarketCharacteristics": {
+          "MarketCharacteristicsEmpty": "Đặc điểm thị trường không được để trống"
+        },
+        "PhoneNumber": {
+          "PhoneNumberEmpty": "Số điện thoại không được để trống"
+        },
+        "UrbanizationLevel": {
+          "UrbanizationLevelEmpty": "Vui lòng điền đầy đủ thông tin"
+        }
+      }
+  }
+}

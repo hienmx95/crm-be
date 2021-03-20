@@ -1,0 +1,26 @@
+﻿{
+  "SmsTemplate": {
+    "Id": {
+    },
+    "Code": {
+      "CodeEmpty": "Mã không được để trống",
+      "CodeExisted": "Mã đã tồn tại",
+      "CodeHasSpecialCharacter" :  "Mã không được chưa ký tự đặc biệt"
+    },
+    "Title": {
+      "TitleEmpty" :  "Tiêu đề không được để trống"
+    },
+    "Content": {
+    },
+    "StatusId": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "Status": {
+    },
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Organization": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "ParentId": {
+    },
+    "Path": {
+    },
+    "Level": {
+    },
+    "StatusId": {
+    },
+    "Phone": {
+    },
+    "Email": {
+    },
+    "Address": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Parent": {
+    },
+    "Status": {
+    },
+    "AppUsers": {
+    },
+    "InverseParent": {
+    },
+    "Notifications": {
+    },
+  }
+}

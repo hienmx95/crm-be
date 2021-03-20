@@ -1,0 +1,79 @@
+﻿{
+  "CustomerExport": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "FullName": {
+    },
+    "CompanyId": {
+    },
+    "EmailOther": {
+    },
+    "Fax": {
+    },
+    "BusinessCapital": {
+    },
+    "BankNumber": {
+    },
+    "CustomerTypeId": {
+    },
+    "CustomerGroupId": {
+    },
+    "CustomerReSourceId": {
+    },
+    "CustomerLevelId": {
+    },
+    "BusinessLicense": {
+      "BusinessLicenseEmpty": "Giấy phép kinh doanh không được để trống",
+      "BusinessLicenseOverLength": "Độ dài giấy phép kinh doanh không được quá 255 ký tự"
+    },
+    "Bank": {
+    },
+    "TaxCode": {
+      "TaxCodeEmpty": "Mã số thuế không được để trống",
+      "TaxCodeOverLength": "Độ dài mã số thuế không được quá 255 ký tự"
+    },
+    "BusinessRegistrationDate": {
+    },
+    "BusinessTypeId": {
+    },
+    "AppUserAssignedId": {
+    },
+    "OrganizationId": {
+    },
+    "StatusId": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "Company": {
+      "CompanyEmpty":  "Công ty không được để trống"
+    },
+    "AppUserAssigned": {
+    },
+    "BusinessType": {
+    },
+    "CustomerGroup": {
+    },
+    "CustomerLevel": {
+    },
+    "CustomerReSource": {
+    },
+    "CustomerType": {
+    },
+    "Organization": {
+    },
+    "Status": {
+    },
+    "CustomerExportContacts": {
+    },
+    "CustomerExportLeaderships": {
+    },
+    "OrderExports": {
+    },
+  }
+}

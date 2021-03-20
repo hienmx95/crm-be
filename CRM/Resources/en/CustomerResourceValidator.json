@@ -1,0 +1,28 @@
+{
+  "CustomerResource": {
+    "Id": {
+    },
+    "Name": {
+    },
+    "Code": {
+    },
+    "Color": {
+    },
+    "StatusId": {
+    },
+    "DisplayOrder": {
+    },
+    "Description": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "Status": {
+    },
+    "Customers": {
+    },
+  }
+}

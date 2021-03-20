@@ -1,0 +1,28 @@
+{
+  "Province": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "Priority": {
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Status": {
+    },
+    "AppUsers": {
+    },
+    "Customers": {
+    },
+    "Districts": {
+    },
+  }
+}

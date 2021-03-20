@@ -1,0 +1,32 @@
+﻿{
+  "CallType": {
+    "Id": {
+    },
+    "Code": {
+      "CodeEmpty": "Mã không được để trống",
+      "CodeExisted": "Mã đã tồn tại",
+      "CodeHasSpecialCharacter": "Mã có ký tự đặc biệt"
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 255 ký tự"
+    },
+    "ColorCode": {
+      "ColorCodeEmpty": "Mã màu không được để trống",
+      "ColorCodeOverLength": "Độ dài mã màu không được quá 20 ký tự"
+    },
+    "StatusId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Used": {
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

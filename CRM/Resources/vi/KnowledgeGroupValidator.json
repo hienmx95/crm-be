@@ -1,0 +1,30 @@
+﻿{
+  "KnowledgeGroup": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength" :  "Độ dài tên không được vượt quá 255 ký tự"
+    },
+    "Code": {
+      "CodeEmpty": "Mã không được để trống",
+      "CodeExisted": "Mã đã tồn tại",
+      "CodeHasSpecialCharacter" :  "Mã chưa ký tự đặc biệt"
+    },
+    "StatusId": {
+      "StatusNotExisted" :  "Trạng thái không tồn tại"
+    },
+    "DisplayOrder": {
+    },
+    "Description": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "KnowledgeArticles": {
+    },
+  }
+}

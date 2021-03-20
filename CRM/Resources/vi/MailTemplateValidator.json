@@ -1,0 +1,12 @@
+﻿{
+  "MailTemplate": {
+    "Code": {
+      "CodeEmpty": "Mã không được để trống",
+      "CodeExisted": "Mã đã tồn tại",
+      "CodeHasSpecialCharacter" :  "Mã không được chứa giá trị đặc biệt"
+    },
+    "Name": {
+      "NameEmpty" :  "Tên không được để trống"
+    }
+  }
+}

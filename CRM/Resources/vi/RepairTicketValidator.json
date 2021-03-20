@@ -1,0 +1,33 @@
+﻿{
+  "RepairTicket": {
+    "Id": {
+    },
+    "RepairTicketNo": {
+      "RepairTicketNoEmpty": "Mã phiếu bảo hành không được để trống",
+      "RepairTicketNoOverLength": "Độ mã phiếu bảo hành tên không được quá 255 ký tự",
+      "RepairTicketNoExisted": "Mã đã tồn tại",
+      "RepairTicketNoHasSpecialCharacter": "Mã có ký tự đặc biệt"
+    },
+    "CustomerName": {
+      "CustomerNameEmpty": "Tên khách hàng không được để trống",
+      "CustomerNameNoOverLength": "Độ dài tên khách hàng không được quá 255 ký tự"
+    },
+    "CustomerAddress": {
+      "CustomerAddressEmpty": "Địa chỉ khách hàng không được để trống",
+      "CustomerAddressOverLength": "Độ dài địa chỉ khách hàng không được quá 500 ký tự"
+    },
+    "RepairDesc": {
+      "RepairDescEmpty": "Tình trạng sản phẩm không được để trống"
+    },
+    "CustomerPhone": {
+      "PhoneNumberEmpty": "Số điện thoại không được để trống",
+      "PhoneNumberOverLength": "Độ dài không được quá 50 ký tự"
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    }
+  }
+}

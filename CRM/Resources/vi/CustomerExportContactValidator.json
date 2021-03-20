@@ -1,0 +1,22 @@
+{
+  "CustomerExportContact": {
+    "Id": {
+    },
+    "CustomerExportId": {
+    },
+    "CustomerContactTypeId": {
+    },
+    "Name": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CustomerContactType": {
+    },
+    "CustomerExport": {
+    },
+  }
+}

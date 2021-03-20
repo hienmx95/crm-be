@@ -1,0 +1,22 @@
+{
+  "CustomerProjectContact": {
+    "Id": {
+    },
+    "CustomerProjectId": {
+    },
+    "CustomerContactTypeId": {
+    },
+    "Name": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CustomerContactType": {
+    },
+    "CustomerProject": {
+    },
+  }
+}

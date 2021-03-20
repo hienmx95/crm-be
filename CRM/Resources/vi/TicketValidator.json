@@ -1,0 +1,27 @@
+﻿{
+  "Ticket": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống"
+    },
+    "Customer": {
+      "CustomerEmpty": "Khách hàng không được để trống"
+    },
+    "TicketIssueLevel": {
+      "TicketIssueLevelEmpty": "Vấn đề không được để trống"
+    },
+    "TicketPriority": {
+      "TicketPriorityEmpty": "Mức độ ưu tiên không được để trống"
+    },
+    "TicketSource": {
+      "TicketSourceEmpty": "Nguồn tiếp nhận không được để trống"
+    },
+    "CustomerType": {
+      "CustomerTypeEmpty": "Loại khách hàng không được để trống"
+    },
+    "Content": {
+      "ContentEmpty": "Nội dung không được để trống"
+    }
+  }
+}

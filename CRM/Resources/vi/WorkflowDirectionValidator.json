@@ -1,0 +1,32 @@
+{
+  "WorkflowDirection": {
+    "Id": {
+    },
+    "WorkflowDefinitionId": {
+    },
+    "FromStepId": {
+    },
+    "ToStepId": {
+    },
+    "SubjectMailForCreator": {
+    },
+    "SubjectMailForNextStep": {
+    },
+    "BodyMailForCreator": {
+    },
+    "BodyMailForNextStep": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "FromStep": {
+    },
+    "ToStep": {
+    },
+    "WorkflowDefinition": {
+    },
+  }
+}

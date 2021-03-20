@@ -1,0 +1,29 @@
+﻿{
+  "Contact": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 500 ký tự"
+    },
+    "Address": {
+      "AddressEmpty": "Địa chỉ không được để trống",
+      "AddressOverLength": "Độ dài địa chỉ không được quá 2000 ký tự"
+    },
+    "Phone": {
+      "PhoneEmpty": "Số điện thoại không được để trống",
+      "PhoneOverLength": "Độ dài không được quá 20 ký tự",
+      "PhoneExisted": "Số điện thoại đã tồn tại"
+    },
+    "AppUser": {
+      "AppUserEmpty": "Nhân viên phụ trách không được để trống",
+      "AppUserNotExisted": "Nhân viên phụ trách không tồn tại"
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    }
+  }
+}

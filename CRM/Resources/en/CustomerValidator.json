@@ -1,0 +1,136 @@
+{
+  "Customer": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "TypeId": {
+    },
+    "GroupId": {
+    },
+    "LevelId": {
+    },
+    "ResourceId": {
+    },
+    "CareerId": {
+    },
+    "StatusId": {
+    },
+    "ProvinceId": {
+    },
+    "DistrictId": {
+    },
+    "WardId": {
+    },
+    "ImageId": {
+    },
+    "XPoint": {
+    },
+    "YPoint": {
+    },
+    "TaxCode": {
+    },
+    "CardCode": {
+    },
+    "Phone": {
+    },
+    "SecondPhone": {
+    },
+    "SexId": {
+    },
+    "Address": {
+    },
+    "DateOfBirth": {
+    },
+    "UserName": {
+    },
+    "Password": {
+    },
+    "FirstName": {
+    },
+    "LastName": {
+    },
+    "FullName": {
+    },
+    "SpendingLimit": {
+    },
+    "Email": {
+    },
+    "Company": {
+    },
+    "AwardPoint": {
+    },
+    "SubAwardPoint": {
+    },
+    "IsReceiveSMS": {
+    },
+    "IsReceiveEmail": {
+    },
+    "CompanyPrivate": {
+    },
+    "Description": {
+    },
+    "Height": {
+    },
+    "Weight": {
+    },
+    "CardIssuanceDate": {
+    },
+    "ProductViewed": {
+    },
+    "IsLogged": {
+    },
+    "CreditNumber": {
+    },
+    "CreditNumberUsed": {
+    },
+    "CreditGroupNumber": {
+    },
+    "CreditGroupNumberUsed": {
+    },
+    "ContactUser": {
+    },
+    "ScheduleMasterId": {
+    },
+    "DeliveryAddress": {
+    },
+    "XPointDelivery": {
+    },
+    "YPointDelivery": {
+    },
+    "Position": {
+    },
+    "DisplayOrder": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "Career": {
+    },
+    "District": {
+    },
+    "Group": {
+    },
+    "Image": {
+    },
+    "Level": {
+    },
+    "Province": {
+    },
+    "Resource": {
+    },
+    "ScheduleMaster": {
+    },
+    "Sex": {
+    },
+    "Status": {
+    },
+    "Type": {
+    },
+    "Ward": {
+    },
+  }
+}

@@ -1,0 +1,39 @@
+﻿{
+  "KnowledgeArticle": {
+    "Id": {
+    },
+    "Title": {
+      "TitleEmpty": "Tiêu đề không được để trống",
+      "TitleOverLength": "Tiêu đề không được để quá 2000 ký tự"
+    },
+    "FromDate": {
+      "FromDateEmpty": "Từ ngày không được để trống"
+    },
+    "ToDate": {
+      "ToDateMoreThanFromDate": "Đến ngày phải lớn hơn từ ngày"
+    },
+    "Detail": {
+      "DetailEmpty": "Chi tiết bài viết không được để trống"
+    },
+    "IsPublished": {
+    },
+    "GroupId": {
+      "GroupEmpty": "Nhóm không được để trống"
+    },
+    "CreatorId": {
+    },
+    "DisplayOrder": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Creator": {
+    },
+    "Group": {
+      "GroupEmpty": "Nhóm không được để trống"
+    },
+  }
+}

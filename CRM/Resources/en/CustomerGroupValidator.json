@@ -1,0 +1,44 @@
+{
+  "CustomerGroup": {
+    "Id": {
+    },
+    "Name": {
+    },
+    "Code": {
+    },
+    "Path": {
+    },
+    "Level": {
+    },
+    "StatusId": {
+    },
+    "Color": {
+    },
+    "DisplayOrder": {
+    },
+    "Description": {
+    },
+    "ParentId": {
+    },
+    "Credit": {
+    },
+    "CreditGroupParent": {
+    },
+    "CreditGroupMember": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "Parent": {
+    },
+    "Status": {
+    },
+    "Customers": {
+    },
+    "InverseParent": {
+    },
+  }
+}

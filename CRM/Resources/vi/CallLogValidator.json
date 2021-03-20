@@ -1,0 +1,26 @@
+﻿{
+  "CallLog": {
+    "Id": {
+    },
+    "CallType": {
+      "CallTypeEmpty": "Loại cuộc gọi không được để trống"
+    },
+    "Customer": {
+      "CustomerEmpty": "Khách hàng không được để trống"
+    },
+    "Content": {
+      "ContentEmpty": "Nội dung không được để trống"
+    },
+    "AppUser": {
+      "AppUserEmpty": "Bắt buộc chọn người phụ trách"
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Used": {
+    }
+  }
+}

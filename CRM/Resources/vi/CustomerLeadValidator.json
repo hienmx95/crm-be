@@ -1,0 +1,85 @@
+﻿{
+  "CustomerLead": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống"
+    },
+    "TelePhone": {
+    },
+    "Phone": {
+      "PhoneEmpty": "Số điện thoại không được để trống",
+      "PhoneOverLength": "Độ dài không được quá 20 ký tự",
+      "PhoneExisted": "Số điện thoại đã tồn tại"
+    },
+    "ClosingDate": {
+      "ClosingDateEmpty": "Ngày chốt dự kiến không được để trống",
+      "ClosingDateWrong": "Ngày chốt dự kiến không hợp lệ"
+    },
+    "Probability": {
+      "ProbabilityEmpty": "Tỷ lệ thành công không được để trống"
+    },
+    "Opportunity": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Độ dài tên không được quá 500 ký tự"
+    },
+    "Fax": {
+      "FaxOverLength" :  "Độ dài FAX không được quá 10 ký tự"
+    },
+    "Email": {
+    },
+    "SecondEmail": {
+    },
+    "Company": {
+      "CompanyExisted":  "Công ty đã tồn tại"
+    },
+    "Website": {
+    },
+    "CustomerLeadSourceId": {
+    },
+    "CustomerLeadLevelId": {
+    },
+    "CampaignId": {
+    },
+    "JobId": {
+    },
+    "Revenue": {
+    },
+    "EmployeeQuantity": {
+    },
+    "Address": {
+    },
+    "ProvinceId": {
+    },
+    "DistrictId": {
+    },
+    "UserId": {
+    },
+    "CustomerLeadStatusId": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "CustomerLeadLevel": {
+    },
+    "CustomerLeadSource": {
+    },
+    "CustomerLeadStatus": {
+    },
+    "District": {
+    },
+    "Job": {
+    },
+    "Province": {
+    },
+    "User": {
+    },
+    "CustomerLeadActivities": {
+    },
+    "CustomerLeadWorkings": {
+    }
+  }
+}

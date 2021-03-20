@@ -1,0 +1,51 @@
+﻿{
+  "CustomerRetail": {
+    "Id": {
+    },
+    "CustomerTypeId": {
+    },
+    "CustomerGroupId": {
+    },
+    "CustomerResourceId": {
+    },
+    "CustomerLevelId": {
+    },
+    "CompanyName": {
+    },
+    "CompanyAddress": {
+    },
+    "DateOfBirth": {
+    },
+    "TaxCode": {
+    },
+    "DeliveryAddress": {
+      "DeliveryAddressEmpty" :  "Địa chỉ nhận hàng không được để trống"
+    },
+    "SexId": {
+    },
+    "StatusId": {
+    },
+    "AssignedAppUserId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "AssignedAppUser": {
+    },
+    "CustomerGroup": {
+    },
+    "CustomerLevel": {
+    },
+    "CustomerResource": {
+    },
+    "CustomerType": {
+    },
+    "Sex": {
+    },
+    "Status": {
+    },
+  }
+}

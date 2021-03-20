@@ -1,0 +1,33 @@
+﻿{
+  "Nation": {
+    "Id": {
+    },
+    "Code": {
+      "CodeEmpty": "Mã không được để trống",
+      "CodeExisted": "Mã đã tồn tại",
+      "CodeHasSpecialCharacter": "Mã có ký tự đặc biệt"
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength" :  "Độ dài tên không được quá 255 ký tự"
+    },
+    "DisplayOrder": {
+    },
+    "StatusId": {
+    },
+    "UpdatedAt": {
+    },
+    "CreatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Status": {
+    },
+    "Companys": {
+    },
+    "ContactNations": {
+    },
+    "Customers": {
+    },
+  }
+}

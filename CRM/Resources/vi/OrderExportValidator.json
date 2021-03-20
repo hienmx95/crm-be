@@ -1,0 +1,138 @@
+﻿{
+  "OrderExport": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ContentEmpty": "Chưa thêm sản phẩm"
+    },
+    "Code": {
+    },
+    "OrderExportTypeId": {
+    },
+    "Transportation": {
+    },
+    "CompanyId": {
+    },
+    "DeliveryDate": {
+    },
+    "OpportunityId": {
+    },
+    "OrderDate": {
+      "OrderDateEmpty": "Ngày đặt hàng không được để trống",
+      "OrderDateWrong": "Ngày đặt hàng không được lớn hơn ngày giao hàng"
+    },
+    "OrderExportId": {
+    },
+    "AppUserAssignedId": {
+    },
+    "ContractId": {
+    },
+    "Note": {
+    },
+    "OrderQuoteId": {
+    },
+    "OrderPaymentStatusId": {
+    },
+    "RequestStateId": {
+    },
+    "EditedPriceStatusId": {
+    },
+    "InvoiceAddress": {
+      "InvoiceAddressEmpty": "Địa chỉ không được để trống",
+      "InvoiceAddressOverLength": "Độ dài địa chỉ không được quá 4000 ký tự"
+    },
+    "InvoiceProvinceId": {
+    },
+    "InvoiceDistrictId": {
+    },
+    "InvoiceNationId": {
+    },
+    "InvoiceZIPCode": {
+    },
+    "DeliveryAddress": {
+      "DeliveryAddressEmpty": "Địa chỉ không được để trống",
+      "DeliveryAddressOverLength": "Độ dài địa chỉ không được quá 4000 ký tự"
+    },
+    "DeliveryNationId": {
+    },
+    "DeliveryProvinceId": {
+    },
+    "DeliveryDistrictId": {
+    },
+    "DeliveryZIPCode": {
+    },
+    "SubTotal": {
+    },
+    "GeneralDiscountPercentage": {
+    },
+    "GeneralDiscountAmount": {
+    },
+    "TotalTaxAmount": {
+    },
+    "TotalTaxAmountOther": {
+    },
+    "Total": {
+    },
+    "OrganizationId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "Company": {
+    },
+    "AppUserAssigned": {
+      "AppUserAssignedEmpty": "Người phụ trách không được để trống"
+    },
+    "Contract": {
+    },
+    "CustomerExport": {
+      "CustomerExportEmpty": "Khách hàng không được để trống"
+    },
+    "DeliveryDistrict": {
+    },
+    "DeliveryNation": {
+    },
+    "DeliveryProvince": {
+    },
+    "EditedPriceStatus": {
+    },
+    "InvoiceDistrict": {
+    },
+    "InvoiceNation": {
+    },
+    "InvoiceProvince": {
+    },
+    "Opportunity": {
+    },
+    "OrderPaymentStatus": {
+      "OrderPaymentStatusEmpty": "Trạng thái thanh toán không được để trống"
+    },
+    "RequestState": {
+      "RequestStateEmpty": "Trạng thái đơn hàng không được để trống"
+    },
+    "OrderExportType": {
+    },
+    "OrderQuote": {
+    },
+    "Organization": {
+    },
+    "OrderExportContactMappings": {
+    },
+    "OrderExportContent": {
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng",
+        "QuantityInvalid": "Số lượng không hợp lệ"
+      },
+      "UnitOfMeasure": {
+        "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+        "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính"
+      }
+    },
+    "OrderExportPaymentHistories": {
+    },
+    "OrderExportPromotions": {
+    }
+  }
+}

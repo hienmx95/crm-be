@@ -1,0 +1,158 @@
+﻿{
+  "CustomerAgent": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength": "Tên nhập quá ký tự cho phép"
+    },
+    "PhoneOther": {
+      "PhoneOtherEmpty": "Số điện thoại không được để trống",
+      "PhoneOtherOverLength": "Số điện thoại nhập quá số lượng cho phép"
+    },
+    "TaxCode": {
+    },
+    "Fax": {
+    },
+    "BusinessCapital": {
+      "BusinessCapitalEmpty": "Vốn kinh doanh không được để trống"
+    },
+    "BusinessType": {
+      "BusinessTypeEmpty": "Yêu cầu chọn loại hình doanh nghiệp"
+    },
+    "BusinessAddress": {
+    },
+    "Email": {
+    },
+    "AccountNumber": {
+      "AccountNumberEmpty": "Số tài khoản không được để trống",
+      "AccountNumberOverLength": "Số điện thoại nhập quá ký tự cho phép"
+    },
+    "BusinessLicense": {
+      "BusinessLicenseEmpty": "Giấy phép kinh doanh không được để trống"
+    },
+    "BankName": {
+      "BankNameEmpty": "Tên ngân hàng không được để trống",
+      "BankNameOverLength": "Tên ngân hàng nhập quá ký tự cho phép"
+    },
+    "BusinessLicenseSignDay": {
+      "BusinessLicenseSignDayEmpty": "Ngày ký không được để trống"
+    },
+    "ContractAgentNumber": {
+      "ContractAgentNumberEmpty": "Số hợp đồng đại lý không được để trống"
+    },
+    "ContractAgentSignDay": {
+      "ContractAgentSignDayEmpty": "Ngày ký không được để trống"
+    },
+    "CustomerTypeId": {
+    },
+    "CustomerGroupId": {
+    },
+    "CustomerResourceId": {
+    },
+    "CustomerLevelId": {
+    },
+    "AssignedAppUserId": {
+    },
+    "StatusId": {
+    },
+    "AreaDistribution": {
+    },
+    "AreaPopulation": {
+    },
+    "AreaAcreage": {
+    },
+    "LevelOfUrbanization": {
+    },
+    "NumberPointOfSale": {
+    },
+    "NumberCustomerKey": {
+    },
+    "MarketCharacteristic": {
+    },
+    "AcreageStore": {
+    },
+    "AcreageWarehouse": {
+    },
+    "AbilityToPay": {
+    },
+    "NumberRewardOfYear": {
+    },
+    "AbilityCapitalMobilization": {
+    },
+    "AbilityLimitFinancial": {
+    },
+    "DivideEachPart": {
+    },
+    "DivisionPeople": {
+    },
+    "OtherStrongPoint": {
+    },
+    "DevelopMarket": {
+    },
+    "Invest": {
+    },
+    "OrganizationId": {
+    },
+    "CreatorId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "AssignedAppUser": {
+    },
+    "BusinessType": {
+    },
+    "Creator": {
+    },
+    "CustomerGroup": {
+    },
+    "CustomerLevel": {
+    },
+    "CustomerResource": {
+    },
+    "CustomerType": {
+    },
+    "Organization": {
+    },
+    "Status": {
+    },
+    "CustomerAgentAssets": {
+    },
+    "CustomerAgentAttentionLevelMappings": {
+    },
+    "CustomerAgentConsultingServiceMappings": {
+    },
+    "CustomerAgentCooperativeAttitudeMappings": {
+    },
+    "CustomerAgentDeliveries": {
+    },
+    "CustomerAgentDeliveryTimeMappings": {
+    },
+    "CustomerAgentFocusLevels": {
+    },
+    "CustomerAgentInfulenceLevelMappings": {
+    },
+    "CustomerAgentMarketCoverageMappings": {
+    },
+    "CustomerAgentPriceTypeMappings": {
+    },
+    "CustomerAgentQualityServiceMappings": {
+    },
+    "CustomerAgentRelationshipCustomerTypeMappings": {
+    },
+    "CustomerAgentRelationships": {
+    },
+    "CustomerAgentWarrantyServiceMappings": {
+    },
+    "CustomerInformationCustomerAgents": {
+    },
+    "CustomerPersonnelContents": {
+    },
+    "Stores": {
+    }
+  }
+}

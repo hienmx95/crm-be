@@ -1,0 +1,42 @@
+{
+  "Status": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "AppUsers": {
+    },
+    "CustomerCareers": {
+    },
+    "CustomerGroups": {
+    },
+    "CustomerLevels": {
+    },
+    "CustomerResources": {
+    },
+    "CustomerTypes": {
+    },
+    "Customers": {
+    },
+    "Districts": {
+    },
+    "Organizations": {
+    },
+    "Positions": {
+    },
+    "Provinces": {
+    },
+    "Roles": {
+    },
+    "ScheduleMasters": {
+    },
+    "TicketTypes": {
+    },
+    "Wards": {
+    },
+    "WorkflowDefinitions": {
+    },
+  }
+}

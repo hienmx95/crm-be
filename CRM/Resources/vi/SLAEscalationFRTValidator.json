@@ -1,0 +1,46 @@
+{
+  "SLAEscalationFRT": {
+    "Id": {
+    },
+    "TicketIssueLevelId": {
+    },
+    "IsNotification": {
+    },
+    "IsMail": {
+    },
+    "IsSMS": {
+    },
+    "Time": {
+    },
+    "TimeUnitId": {
+    },
+    "IsAssignedToUser": {
+    },
+    "IsAssignedToGroup": {
+    },
+    "SmsTemplateId": {
+    },
+    "MailTemplateId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "MailTemplate": {
+    },
+    "SmsTemplate": {
+    },
+    "TicketIssueLevel": {
+    },
+    "TimeUnit": {
+    },
+    "SLAEscalationFRTMails": {
+    },
+    "SLAEscalationFRTPhones": {
+    },
+    "SLAEscalationFRTUsers": {
+    },
+  }
+}

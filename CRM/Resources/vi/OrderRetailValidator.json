@@ -1,0 +1,93 @@
+﻿{
+  "OrderRetail": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ContentEmpty": "Chưa thêm sản phẩm"
+    },
+    "Code": {
+    },
+    "OrderRetailTypeId": {
+    },
+    "CustomerRetailId": {
+    },
+    "OrderRetailSoureId": {
+    },
+    "CustomerPhone": {
+      "CustomerPhoneEmpty": "Số điện thoại không được để trống",
+      "CustomerPhoneOverLength": "Độ dài tiêu đề không được quá 20 ký tự"
+    },
+    "CustomerAddress": {
+      "CustomerAddressEmpty": "Địa chỉ không được để trống",
+      "CustomerAddressOverLength": "Độ dài địa chỉ không được quá 4000 ký tự"
+    },
+    "Company": {
+    },
+    "TaxCode": {
+    },
+    "CompanyAddress": {
+    },
+    "DeliveryAddress": {
+    },
+    "ZipCode": {
+    },
+    "RequestStateId": {
+    },
+    "OrderPaymentStatusId": {
+    },
+    "AppUserAssignedId": {
+    },
+    "Note": {
+    },
+    "OrderDate": {
+      "OrderDateEmpty": "Ngày đặt hàng không được để trống",
+      "OrderDateWrong":  "Ngày đặt hàng không được lớn hơn ngày giao hàng"
+    },
+    "DeliveryDate": {
+    },
+    "EditedPriceStatusId": {
+    },
+    "SubTotal": {
+    },
+    "GeneralDiscountPercentage": {
+    },
+    "GeneralDiscountAmount": {
+    },
+    "TotalTaxAmount": {
+    },
+    "TotalTaxAmountOther": {
+    },
+    "Total": {
+    },
+    "OrganizationId": {
+    },
+    "AppUserAssigned": {
+      "AppUserAssignedEmpty":  "Người phụ trách không được để trống"
+    },
+    "CustomerRetail": {
+      "CustomerRetailEmpty": "Khách hàng không được để trống"
+    },
+    "EditedPriceStatus": {
+    },
+    "OrderPaymentStatus": {
+      "OrderPaymentStatusEmpty":  "Trạng thái thanh toán không được để trống"
+    },
+    "OrderRetailSoure": {
+    },
+    "RequestState": {
+    },
+    "OrderRetailType": {
+    },
+    "Organization": {
+    },
+    "OrderRetailContent": {
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng",
+        "QuantityInvalid": "Số lượng không hợp lệ"
+      },
+      "UnitOfMeasure": {
+        "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+        "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính"
+      }
+    }
+  }
+}

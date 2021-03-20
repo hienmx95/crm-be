@@ -1,0 +1,26 @@
+{
+  "WorkflowStep": {
+    "Id": {
+    },
+    "WorkflowDefinitionId": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "RoleId": {
+    },
+    "SubjectMailForReject": {
+    },
+    "BodyMailForReject": {
+    },
+    "Role": {
+    },
+    "WorkflowDefinition": {
+    },
+    "WorkflowDirectionFromSteps": {
+    },
+    "WorkflowDirectionToSteps": {
+    },
+  }
+}

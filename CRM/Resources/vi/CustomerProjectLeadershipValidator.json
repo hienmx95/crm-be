@@ -1,0 +1,26 @@
+{
+  "CustomerProjectLeadership": {
+    "Id": {
+    },
+    "CustomerProjectId": {
+    },
+    "Name": {
+    },
+    "DateOfBirth": {
+    },
+    "Phone": {
+    },
+    "PositionId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CustomerProject": {
+    },
+    "Position": {
+    },
+  }
+}

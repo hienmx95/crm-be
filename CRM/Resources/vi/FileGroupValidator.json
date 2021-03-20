@@ -1,0 +1,32 @@
+﻿{
+  "FileGroup": {
+    "Id": {
+    },
+    "Name": {
+      "NameEmpty": "Tên không được để trống",
+      "NameOverLength" :  "Tên không được quá 255 ký tự"
+    },
+    "Description": {
+    },
+    "AppUserId": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "AppUser": {
+    },
+    "CompanyFileGroupMappings": {
+    },
+    "ContactFileGroupMappings": {
+    },
+    "CustomerLeadFileGroupMappings": {
+    },
+    "Files": {
+    },
+    "OpportunityFileGroupMappings": {
+    },
+  }
+}

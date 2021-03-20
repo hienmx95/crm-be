@@ -1,0 +1,18 @@
+{
+  "SLAEscalationMail": {
+    "Id": {
+    },
+    "SLAEscalationId": {
+    },
+    "Mail": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "SLAEscalation": {
+    },
+  }
+}

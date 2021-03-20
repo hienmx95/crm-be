@@ -1,0 +1,18 @@
+{
+  "Role": {
+    "Id": {
+    },
+    "Code": {
+    },
+    "Name": {
+    },
+    "StatusId": {
+    },
+    "Status": {
+    },
+    "AppUserRoleMappings": {
+    },
+    "WorkflowSteps": {
+    },
+  }
+}

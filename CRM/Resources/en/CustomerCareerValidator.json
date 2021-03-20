@@ -1,0 +1,30 @@
+{
+  "CustomerCareer": {
+    "Id": {
+    },
+    "Name": {
+    },
+    "Code": {
+    },
+    "IsInternal": {
+    },
+    "Color": {
+    },
+    "StatusId": {
+    },
+    "DisplayOrder": {
+    },
+    "Description": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "CreatedAt": {
+    },
+    "Status": {
+    },
+    "Customers": {
+    },
+  }
+}

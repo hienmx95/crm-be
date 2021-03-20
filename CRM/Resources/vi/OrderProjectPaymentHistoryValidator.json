@@ -1,0 +1,26 @@
+{
+  "OrderProjectPaymentHistory": {
+    "Id": {
+    },
+    "OrderProjectId": {
+    },
+    "PaymentMilestone": {
+    },
+    "PaymentPercentage": {
+    },
+    "PaymentAmount": {
+    },
+    "Description": {
+    },
+    "IsPaid": {
+    },
+    "CreatedAt": {
+    },
+    "UpdatedAt": {
+    },
+    "DeletedAt": {
+    },
+    "OrderProject": {
+    },
+  }
+}
